@@ -1,4 +1,6 @@
 # AppWeb-AppGeolocalizacion
+<img width="1243" height="688" alt="image" src="https://github.com/user-attachments/assets/f42c0fa7-3aea-431b-b81f-a8950a1880f2" />
+
 # GeolocalizationApp
 
 **Autor:** Jose Pila  
